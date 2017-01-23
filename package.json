@@ -1,0 +1,16 @@
+{
+  "name": "markupToScss",
+  "version": "1.0.0",
+  "description": "html markup to scss",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yunseok Han",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.4"
+  }
+}
